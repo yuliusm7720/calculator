@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-20.04
+  vmImage: vs2017-win2016
 # pool:
 #     name: az400m05l05a-pool
 #     demands:
